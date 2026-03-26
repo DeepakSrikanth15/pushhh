@@ -1,0 +1,12 @@
+Step 1 : Docker Desktop 
+Step 2 : Enable Kubernetes in desktop
+Step 3 : Enable two plugins (Docker and Docker pipeline ) in Jenkins 
+Step 4:Create all the required files
+Step 5: build locally(mvn clean package)
+Step 6:  Push the code 
+Step 7: Install Kubernetes CLI plugin in jenkins
+Step 8: Add Docker Hub Credentials 
+Step 9: Create Jenkins pipeline Job 
+Step 10: Add pipeline script 
+Step 11: Verify Docker and Kubernetes Deployment
+Step 12: Verify in cmd pmt (kubectl get svc) 
